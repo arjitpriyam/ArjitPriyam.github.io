@@ -4271,3 +4271,9 @@ img.u-pull-left {
     right: 6vw;
   }
 }
+
+@media screen and (max-width: 600px) {
+    .works-portfolio .folio-list {
+        display: block;
+    }
+}
